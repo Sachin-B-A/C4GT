@@ -893,6 +893,24 @@
 </table>
 <table>
   <tr>
+    <td>Name</td>
+    <td>Sachin B A</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/Sachin-B-A</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/b-a-sachin/</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>Sai vidya institute of technology,Bengaluru</td>
+  </tr>
+</table>
+<table>
+  <tr>
       <td>Name</td>
       <td>Abhishek Yadav</td>
   </tr>
